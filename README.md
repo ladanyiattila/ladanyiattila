@@ -8,8 +8,3 @@ I'm a Computer Engineering student at Budapest University of Technology and Econ
 - **Libraries and Tools:** XAML, UML, REST, Github Actions, Gradle, SonarLint
 - **Databases:** Microsoft SQL Server, MongoDB, Oracle
 - **Other:** Git, LaTeX, DaVinci Resolve, Microsoft Office
-
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladanyiattila&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ladanyiattila&langs_count=7&layout=donut&theme=tokyonight)
